@@ -1,5 +1,5 @@
 # Retail-Sales-Performance-Dashboard
-📊 Retail Sales Performance Dashboard built with Power BI. Features sales analysis, product performance tracking, return analysis, KPI monitoring, data modeling, Power Query transformations, and DAX measures to deliver actionable business insights through interactive visualizations.
+ Retail Sales Performance Dashboard built with Power BI. Features sales analysis, product performance tracking, return analysis, KPI monitoring, data modeling, Power Query transformations, and DAX measures to deliver actionable business insights through interactive visualizations.
 Retail Sales Performance Dashboard (Power BI)
 Project Overview
 
