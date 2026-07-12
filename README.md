@@ -28,19 +28,19 @@ An interactive Business Intelligence dashboard built in Microsoft Power BI to an
 
 ## 1️⃣ Sales Overview
 
-![Sales Overview](assets/sales_overview.png)
+![Sales Overview](assets/salesoverview.png)
 
 ---
 
 ## 2️⃣ Product Performance
 
-![Product Performance](assets/product_performance.png)
+![Product Performance](assets/productperformance.png)
 
 ---
 
 ## 3️⃣ Return Analysis
 
-![Return Analysis](assets/return_analysis.png)
+![Return Analysis](assets/returnanalysis.png)
 ---
 
 # 📈 Dashboard Features
