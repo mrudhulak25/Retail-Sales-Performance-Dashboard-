@@ -4,7 +4,7 @@ An interactive Business Intelligence dashboard built in Microsoft Power BI to an
 
 ---
 
-# 🚀 Tools & Technologies
+## 🚀 Tools & Technologies
 
 - 📊 Microsoft Power BI
 - 📈 DAX
@@ -14,94 +14,95 @@ An interactive Business Intelligence dashboard built in Microsoft Power BI to an
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze sales performance
 - Monitor product revenue
 - Track return analysis
 - Compare regional sales
-- Build interactive dashboards
+- Build an interactive Business Intelligence dashboard
 
 ---
 
-# 📌 Dashboard Preview
+## 📌 Dashboard Preview
 
-## 1️⃣ Sales Overview
+### 📈 Sales Overview
 
 ![Sales Overview](assets/readme/sales_overview.png)
 
 ---
 
-## 2️⃣ Product Performance
+### 📦 Product Performance
 
 ![Product Performance](assets/readme/product_performance.png)
 
 ---
 
-## 3️⃣ Return Analysis
+### 🔄 Return Analysis
 
 ![Return Analysis](assets/readme/return_analysis.png)
+
 ---
 
-# 📈 Dashboard Features
+## 📊 Dashboard Features
 
 - KPI Cards
-- Revenue Analysis
-- Product Performance
+- Sales Performance Analysis
+- Product Performance Analysis
 - Return Analysis
-- Interactive Filters
-- Category Analysis
-- Regional Insights
+- Interactive Filters & Slicers
+- Category-wise Insights
+- Regional Performance
 - Monthly Sales Trend
 
 ---
 
-# 📊 KPIs
+## 📈 Key Performance Indicators (KPIs)
 
 | KPI | Value |
-|------|-------|
+|------|------:|
 | Total Revenue | 10,392 |
 | Total Orders | 10K |
-| Avg Days to Ship | 3.99 |
-| Interactive Filters | Yes |
+| Average Days to Ship | 3.99 |
 | Dashboard Pages | 3 |
+| Interactive Filters | ✅ |
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
-Retail-Sales-PowerBI-Dashboard
+Retail-Sales-Performance-Dashboard-
 │
 ├── README.md
 ├── Mrudhula_Kimidi.pbix
 ├── RetailSales_PowerBI_Dataset.xlsx
 │
 └── assets
-    ├── sales_overview.png
-    ├── product_performance.png
-    └── return_analysis.png
+    └── readme
+        ├── sales_overview.png
+        ├── product_performance.png
+        └── return_analysis.png
 ```
 
 ---
 
-# 💡 Key Features
+## 💡 Key Highlights
 
 - Interactive Power BI Dashboard
-- Dynamic Slicers
-- DAX Measures
-- Power Query Data Cleaning
+- Power Query Data Transformation
+- DAX Calculations
 - Sales Trend Analysis
-- Product Insights
+- Product Performance Insights
 - Return Analysis
 - Business Intelligence Reporting
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Mrudhula Kimidi**
 
-B.Tech – Computer Science & Engineering
+**B.Tech – Computer Science & Engineering**
 
-Power BI | Data Analytics | Business Intelligence
+**Skills:** Power BI • Excel • SQL • Python • Data Analytics • Business Intelligence
