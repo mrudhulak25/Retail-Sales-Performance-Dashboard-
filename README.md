@@ -32,16 +32,15 @@ An interactive Business Intelligence dashboard built in Microsoft Power BI to an
 
 ---
 
-## 2️⃣ Product Performance Dashboard
+## 2️⃣ Product Performance
 
 ![Product Performance](assets/product_performance.png)
 
 ---
 
-## 3️⃣ Return Analysis Dashboard
+## 3️⃣ Return Analysis
 
 ![Return Analysis](assets/return_analysis.png)
-
 ---
 
 # 📈 Dashboard Features
