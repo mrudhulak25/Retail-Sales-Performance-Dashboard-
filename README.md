@@ -1,102 +1,108 @@
-# 📊 Retail Sales Dashboard using Power BI
+# 📊 Retail Sales Analysis Dashboard using Power BI
 
-## 📌 Project Overview
-
-This project presents an interactive Retail Sales Dashboard built in Power BI. It helps analyze sales performance, customer behavior, product trends, and business KPIs through dynamic visualizations.
+An interactive Business Intelligence dashboard built in Microsoft Power BI to analyze retail sales, product performance, and return analysis.
 
 ---
 
-## 🎯 Objectives
+# 🚀 Tools & Technologies
 
-- Analyze retail sales performance
-- Monitor revenue and profit
-- Track customer purchasing behavior
-- Identify top-performing products
-- Improve business decision-making
-
----
-
-## 🛠 Tools Used
-
-- Power BI
-- Microsoft Excel
-- Power Query
-- DAX
+- 📊 Microsoft Power BI
+- 📈 DAX
+- 🔄 Power Query
+- 📂 Microsoft Excel
+- 📉 Data Visualization
 
 ---
 
-## 📂 Dataset
+# 🎯 Project Objectives
 
-The dataset contains:
-
-- Orders
-- Customers
-- Products
-- Sales
-- Quantity
-- Profit
-- Region
-- Category
+- Analyze sales performance
+- Monitor product revenue
+- Track return analysis
+- Compare regional sales
+- Build interactive dashboards
 
 ---
 
-## 📈 Dashboard Features
+# 📌 Dashboard Preview
 
-- Total Sales KPI
-- Total Profit KPI
-- Total Orders
-- Sales by Category
-- Sales by Region
-- Monthly Sales Trend
-- Top Products
-- Customer Analysis
+## 1️⃣ Sales Overview
+
+![Sales Overview](assets/sales_overview.png)
+
+---
+
+## 2️⃣ Product Performance Dashboard
+
+![Product Performance](assets/product_performance.png)
+
+---
+
+## 3️⃣ Return Analysis Dashboard
+
+![Return Analysis](assets/return_analysis.png)
+
+---
+
+# 📈 Dashboard Features
+
+- KPI Cards
+- Revenue Analysis
+- Product Performance
+- Return Analysis
 - Interactive Filters
-- Dynamic Charts
+- Category Analysis
+- Regional Insights
+- Monthly Sales Trend
 
 ---
 
-## 📊 Key Insights
+# 📊 KPIs
 
-- Identified highest revenue-generating categories
-- Compared regional sales performance
-- Tracked monthly growth trends
-- Found top-selling products
-- Analyzed customer purchasing patterns
-
----
-
-## 📷 Dashboard Preview
-
-(Add screenshots here)
-
-Example:
-
-![Dashboard](Images/Dashboard1.png)
+| KPI | Value |
+|------|-------|
+| Total Revenue | 10,392 |
+| Total Orders | 10K |
+| Avg Days to Ship | 3.99 |
+| Interactive Filters | Yes |
+| Dashboard Pages | 3 |
 
 ---
 
-## 📁 Files Included
+# 📂 Repository Structure
 
-- Dashboard.pbix
-- RetailSales_Dataset.xlsx
-
----
-
-## 🚀 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Calculations
-- Dashboard Design
-- Business Intelligence
-- Data Visualization
+```text
+Retail-Sales-PowerBI-Dashboard
+│
+├── README.md
+├── Mrudhula_Kimidi.pbix
+├── RetailSales_PowerBI_Dataset.xlsx
+│
+└── assets
+    ├── sales_overview.png
+    ├── product_performance.png
+    └── return_analysis.png
+```
 
 ---
 
-## 👩‍💻 Author
+# 💡 Key Features
+
+- Interactive Power BI Dashboard
+- Dynamic Slicers
+- DAX Measures
+- Power Query Data Cleaning
+- Sales Trend Analysis
+- Product Insights
+- Return Analysis
+- Business Intelligence Reporting
+
+---
+
+# 👩‍💻 Author
 
 **Mrudhula Kimidi**
 
-GitHub:
-LinkedIn:
+B.Tech – Computer Science & Engineering
+
+Power BI | Data Analytics | Business Intelligence
